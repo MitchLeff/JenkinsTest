@@ -1,1 +1,1 @@
-echo "test"
+echo "This is a test job file"
